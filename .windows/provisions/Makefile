@@ -1,10 +1,10 @@
 PREDOWNLOADED_FILES=$(wildcard vshell*.*)
 
-CHEF_VERSION?=12.9.38-1
+CHEF_VERSION?=12.17.44-1-1
 SALT_VERSION?=2015.8.8-2
 SEVENZIP_VERSION?=1600
 ULTRADEFRAG_VERSION?=7.0.1
-VBOX_VERSION?=5.0.20
+VBOX_VERSION?=5.1.12
 
 # always 301's to latest installer:
 #MLSSSH_64_URL?=http://www.mls-software.com/files/setupssh-6.7p1-1-v1.exe
